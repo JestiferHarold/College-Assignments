@@ -26,7 +26,7 @@ CREATE TABLE Courses (course_id integer, course_name varchar(50), student_id INT
 
 INSERT INTO Courses (course_id, course_name, student_id) 
 VALUES 
-      (69, "Mathematics", 3)
+      (3, "Mathematics", 3)
 
 /*
   * question 4: How do you insert the following students into the students table:
@@ -64,3 +64,6 @@ VALUES
 */
 
 SELECT * from Students;
+
+/* DOING THE REST */
+

@@ -1,5 +1,8 @@
 /*
-
+  * author: P Sanjay
+  * date: 25/06/2025
+  * subject: C Programming
+  * topic: Loops Practice
 */
 
 #include <stdio.h>
